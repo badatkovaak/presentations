@@ -7,6 +7,17 @@ theme: gaia
 
 ---
 
+# Outstanding Professors Of Kazan State University
+
+Made By
+ * Rizaev Daniil
+ * Petrova Alisa
+ * Shubin Dmitriy
+ * Ovchinnikova Sofia
+ * Nuriyeva Aylar
+
+---
+
 ![bg left h:500px](4.jpg)
 
 # Nikolai Lobachevsky
@@ -29,7 +40,6 @@ Director of the Institute of Theoretical and Applied Mechanics named after S.A.K
 # Petr Alekseevich Shirokov
 
 Soviet mathematician, Doctor of Physical and Mathematical Sciences in 1936, professor of Kazan State University in 1930. 
-<!-- Topics of Scientific interests include differential geometry, non euclidean geometry, tensor analysis. -->
 
 ---
 
@@ -41,3 +51,7 @@ Soviet mathematician, Doctor of Physical and Mathematical Sciences in 1936, prof
 Leonid Aleksandrovich Aksentiev entered the Faculty of Physics and Mathematics of 
 Kazan State University, from which he graduated with honors in 1954 with a degree in Mathematics
 
+
+---
+
+# Thank You For Your Attention !
