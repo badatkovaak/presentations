@@ -48,9 +48,16 @@ Soviet mathematician, Doctor of Physical and Mathematical Sciences in 1936, prof
 
 # Leonid Aleksandrovich Aksentiev
 
-Leonid Aleksandrovich Aksentiev entered the Faculty of Physics and Mathematics of 
-Kazan State University, from which he graduated with honors in 1954 with a degree in Mathematics
+Leonid Aleksandrovich Aksentiev entered the Faculty of Physics and Mathematics of Kazan State University, from which he graduated with honors in 1954 with a degree in Mathematics
 
+
+---
+
+![bg left h:450px](6.jpg)
+
+# Pavel Sergeevich Alexandrov
+
+Aleksandrov was president of the Moscow Mathematical Society, vice president of the International Congress of Mathematicians, and a full member of the Soviet Academy of Sciences.
 
 ---
 
