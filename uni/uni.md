@@ -9,12 +9,13 @@ theme: gaia
 
 # Outstanding Professors Of Kazan State University
 
-Made By
- * Rizaev Daniil
- * Petrova Alisa
- * Shubin Dmitriy
- * Ovchinnikova Sofia
- * Nuriyeva Aylar
+# Made By
+
+- Rizaev Daniil
+- Petrova Alisa
+- Shubin Dmitriy
+- Ovchinnikova Sofia
+- Nuriyeva Aylar
 
 ---
 
@@ -22,7 +23,8 @@ Made By
 
 # Nikolai Lobachevsky
 
-Nikolai Lobachevsky was an outstanding Russian mathematician who taught at Kazan University starting from 1807 and served as its rector from 1827 to 1846.
+Nikolai Lobachevsky was an outstanding Russian mathematician who taught at Kazan
+University starting from 1807 and served as its rector from 1827 to 1846.
 
 ---
 
@@ -30,8 +32,9 @@ Nikolai Lobachevsky was an outstanding Russian mathematician who taught at Kazan
 
 # Fomin Vasily Mikhailovich
 
-Academician of the Russian Academy of Sciences, Doctor of Physical and Mathematical Sciences,
-Director of the Institute of Theoretical and Applied Mechanics named after S.A.Khristianovich SB RAS
+Academician of the Russian Academy of Sciences, Doctor of Physical and
+Mathematical Sciences, Director of the Institute of Theoretical and Applied
+Mechanics named after S.A.Khristianovich SB RAS
 
 ---
 
@@ -39,17 +42,18 @@ Director of the Institute of Theoretical and Applied Mechanics named after S.A.K
 
 # Petr Alekseevich Shirokov
 
-Soviet mathematician, Doctor of Physical and Mathematical Sciences in 1936, professor of Kazan State University in 1930. 
+Soviet mathematician, Doctor of Physical and Mathematical Sciences in 1936,
+professor of Kazan State University in 1930.
 
 ---
-
 
 ![bg left h:450px](3.jpg)
 
 # Leonid Aleksandrovich Aksentiev
 
-Leonid Aleksandrovich Aksentiev entered the Faculty of Physics and Mathematics of Kazan State University, from which he graduated with honors in 1954 with a degree in Mathematics
-
+Leonid Aleksandrovich Aksentiev entered the Faculty of Physics and Mathematics
+of Kazan State University, from which he graduated with honors in 1954 with a
+degree in Mathematics
 
 ---
 
@@ -57,7 +61,9 @@ Leonid Aleksandrovich Aksentiev entered the Faculty of Physics and Mathematics o
 
 # Pavel Sergeevich Alexandrov
 
-Aleksandrov was president of the Moscow Mathematical Society, vice president of the International Congress of Mathematicians, and a full member of the Soviet Academy of Sciences.
+Aleksandrov was president of the Moscow Mathematical Society, vice president of
+the International Congress of Mathematicians, and a full member of the Soviet
+Academy of Sciences.
 
 ---
 

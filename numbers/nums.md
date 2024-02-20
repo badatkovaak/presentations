@@ -11,4 +11,29 @@ style: |
 
 ---
 
-# Hi There !!
+# Bunary Number System
+
+Made by
+
+- Rizaev Daniil
+- Popov Alexander
+- Aristova Maria
+- Gafurov Aidar
+- Demin Sergey
+- Khafizov Bulat
+
+---
+
+## Real world uses
+
+![h:500px](color-wheel1.jpg)
+
+---
+
+## Fun counting method
+
+![h:500px](numbering.png)
+
+---
+
+## Thank You For Watching !
