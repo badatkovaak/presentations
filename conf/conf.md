@@ -32,6 +32,8 @@ $$ y^2 = x^3 + ax + b $$
 
 ---
 
+## Graphs Of Elliptic Curves
+
 ![w:1100](images2.jpg)
 
 ---
@@ -64,19 +66,26 @@ $$ a^n + b^n = c^n $$
 
 ## Intro To Cryptography
 
---- 
-
-$$ 15 = 3 * 5 $$
+Elliptic curves are used in cryptography because they provide a "one-way" operation - addition of points on the curve.
 
 ---
+
+![h:600px](dhke2.png)
+
+--- 
 
 ## Elliptic Curves in Cryptography
 
-- Modular Arithmetic
 
 ---
 
-## ECDH || ECDSA
+## Point Addition
+
+![](point2.png)
+
+---
+
+## ECDH
 
 ---
 
